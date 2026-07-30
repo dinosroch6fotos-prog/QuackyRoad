@@ -1,7 +1,9 @@
 #include <iostream>
+#include "raylib.h"
 
 int main() {
 
+    InitWindow(800, 450, "QuackyRoad");
 
 
 
@@ -9,4 +11,4 @@ int main() {
 
 
     return 0;
-}git
+}
