@@ -1,0 +1,3 @@
+/home/marlen/QuackyRoad/build/CMakeFiles/QuackyRoad.dir
+/home/marlen/QuackyRoad/build/CMakeFiles/edit_cache.dir
+/home/marlen/QuackyRoad/build/CMakeFiles/rebuild_cache.dir
